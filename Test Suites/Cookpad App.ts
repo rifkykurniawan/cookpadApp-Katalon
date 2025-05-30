@@ -10,16 +10,16 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>0155b08c-4161-4be8-8e0a-ce3eb6aff9b6</testSuiteGuid>
+   <testSuiteGuid>1b0293df-e5c6-46d8-8670-ddb6e2148dc3</testSuiteGuid>
    <testCaseLink>
-      <guid>80fdcd9f-7db3-47e9-aaa6-3aef52080f11</guid>
+      <guid>abe7773d-e71b-4053-8306-326604d980ad</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Verify edit user location</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>235d1ece-13a5-4041-94a3-8e5d26a92774</guid>
+      <guid>7dee388a-5fbc-48df-892d-9d54750a6917</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Verify edit user display name</testCaseId>

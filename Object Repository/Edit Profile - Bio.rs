@@ -13,15 +13,15 @@
       <name>class</name>
       <type>Main</type>
       <value>android.widget.EditText</value>
-      <webElementGuid>eb12a08f-196e-4a75-972e-356db425bedb</webElementGuid>
+      <webElementGuid>5496a051-3911-4030-ad93-12dd791c9a93</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>index</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>c48d6b65-ba6c-4047-ae21-556ad9164f22</webElementGuid>
+      <webElementGuid>d59e61a5-f582-495b-8972-7b7f9f253204</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,7 +29,7 @@
       <name>text</name>
       <type>Main</type>
       <value>About you and your love of cooking</value>
-      <webElementGuid>6f9f0d68-2f75-401a-856d-f896b3d11995</webElementGuid>
+      <webElementGuid>e46a45e1-f443-4a69-b19f-ca6f45a2f128</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,201 +37,194 @@
       <name>resource-id</name>
       <type>Main</type>
       <value>com.mufumbo.android.recipe.search:id/bioEdit</value>
-      <webElementGuid>515420cb-4a67-437d-a782-b44eb4245b58</webElementGuid>
+      <webElementGuid>2eb74ddf-3ae7-4a46-af80-8d65fcec1aad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>package</name>
       <type>Main</type>
       <value>com.mufumbo.android.recipe.search</value>
-      <webElementGuid>9e09bb00-1bcf-4595-b66d-322b1efe24cb</webElementGuid>
+      <webElementGuid>bdbb6c62-9847-4c7b-babe-05eca8b3da99</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>checkable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>0a6fdc6e-9742-4a2e-aa23-9a573c48cada</webElementGuid>
+      <webElementGuid>627b7e47-c039-487c-81cd-e8c8c1962854</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>checked</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>82f8f6e6-3fce-40c3-9250-b74b83c735d5</webElementGuid>
+      <webElementGuid>9582f6c2-34a5-4b57-bfd3-66d7a4e08fe3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>clickable</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>9d175ce1-7876-4c27-9e69-daae19b32d04</webElementGuid>
+      <webElementGuid>6a21a922-e459-4a06-8656-5a14e2a6970b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>280882b6-5212-46a4-9a52-7560ddfe1d63</webElementGuid>
+      <webElementGuid>effdf88e-4e17-44a2-a589-8d8e3005ddaa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>focusable</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>cd983604-b409-484f-a807-8ae1641e4feb</webElementGuid>
+      <webElementGuid>468d4623-13ef-4009-a191-0fe4e8f1b69e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>focused</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>22ce5f01-a1a5-4c82-b6e7-2323a1def1ae</webElementGuid>
+      <webElementGuid>e6585e64-db44-40d1-8257-40e91b1ad55f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>scrollable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>89102c1b-f27f-4249-86e4-2915d3085d31</webElementGuid>
+      <webElementGuid>c3c1646e-6706-4b44-9f99-2263abe0ea80</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>long-clickable</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>fd047a8e-de4f-4755-9c57-0ee6d59b6bc4</webElementGuid>
+      <webElementGuid>f33e892f-fa02-4ba7-a3a6-bccbc0198db1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>password</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>e7e3ec56-3a5a-4f9b-b422-f374eb29972c</webElementGuid>
+      <webElementGuid>d7dfbf80-caf7-4a6d-84e0-801a6192679b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>545bbaf0-f95e-463c-9f87-366a24c84378</webElementGuid>
+      <webElementGuid>536aa97d-0f1c-40b6-bf20-c793d121ec94</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>x</name>
       <type>Main</type>
       <value>44</value>
-      <webElementGuid>b06d8307-a8a8-4f9a-b04d-92c53ce35964</webElementGuid>
+      <webElementGuid>14423eb6-d608-412e-9fb2-42c91b2cfb0a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>y</name>
       <type>Main</type>
       <value>1315</value>
-      <webElementGuid>b2deca88-db13-4c3f-b6b8-817ec339a974</webElementGuid>
+      <webElementGuid>b89331da-97ae-457e-af38-db7f5aebfbec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>width</name>
       <type>Main</type>
       <value>992</value>
-      <webElementGuid>fd8e4bcb-f4cb-4b82-a600-7792a7dc709c</webElementGuid>
+      <webElementGuid>bc036ca0-7c02-4f6c-9008-123031b8b5f8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>height</name>
       <type>Main</type>
       <value>148</value>
-      <webElementGuid>a31bbcc9-6dab-4b82-a853-5b1e56a23750</webElementGuid>
+      <webElementGuid>9922b39e-6aa6-441e-92bb-95d5f6a1b30a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>bounds</name>
       <type>Main</type>
       <value>[44,1315][1036,1463]</value>
-      <webElementGuid>c00a8f01-9d13-48d1-86db-3ee5b9af8ffe</webElementGuid>
+      <webElementGuid>b2851963-8e9b-4155-824d-c03bbf1609d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>displayed</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>50c22f4b-bc2b-4988-bb0f-cd61b5819f9c</webElementGuid>
+      <webElementGuid>34be810a-27e2-4385-ab88-d8e13735a323</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
       <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/androidx.drawerlayout.widget.DrawerLayout[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.ScrollView[1]/android.view.ViewGroup[1]/android.widget.LinearLayout[5]/android.widget.FrameLayout[1]/android.widget.EditText[1]</value>
-      <webElementGuid>abd4641c-005f-4232-a6c9-165f2f920e20</webElementGuid>
+      <webElementGuid>8a4abaf2-97f5-480f-aa09-c339a0f47efe</webElementGuid>
    </webElementProperties>
    <locator>com.mufumbo.android.recipe.search:id/bioEdit</locator>
    <locatorCollection>
       <entry>
-         <key>ATTRIBUTES</key>
-         <value>//*[@class = 'android.widget.EditText' and (@text = 'About you and your love of cooking' or . = 'About you and your love of cooking') and @resource-id = 'com.mufumbo.android.recipe.search:id/bioEdit']</value>
-      </entry>
-      <entry>
-         <key>ACCESSIBILITY</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>CLASS_NAME</key>
-         <value>android.widget.EditText</value>
-      </entry>
-      <entry>
-         <key>ID</key>
-         <value>com.mufumbo.android.recipe.search:id/bioEdit</value>
+         <key>CUSTOM</key>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/androidx.drawerlayout.widget.DrawerLayout[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.ScrollView[1]/android.view.ViewGroup[1]/android.widget.LinearLayout[5]/android.widget.FrameLayout[1]/android.widget.EditText[1]</value>
       </entry>
       <entry>
-         <key>NAME</key>
-         <value></value>
+         <key>ATTRIBUTES</key>
+         <value>//*[@class = 'android.widget.EditText' and (@text = 'About you and your love of cooking' or . = 'About you and your love of cooking') and @resource-id = 'com.mufumbo.android.recipe.search:id/bioEdit']</value>
       </entry>
       <entry>
          <key>IOS_PREDICATE_STRING</key>
-         <value></value>
       </entry>
       <entry>
-         <key>IOS_CLASS_CHAIN</key>
-         <value></value>
+         <key>ACCESSIBILITY</key>
+      </entry>
+      <entry>
+         <key>NAME</key>
       </entry>
       <entry>
          <key>ANDROID_VIEWTAG</key>
-         <value></value>
+      </entry>
+      <entry>
+         <key>ID</key>
+         <value>com.mufumbo.android.recipe.search:id/bioEdit</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+      </entry>
+      <entry>
+         <key>CLASS_NAME</key>
+         <value>android.widget.EditText</value>
+      </entry>
+      <entry>
+         <key>IOS_CLASS_CHAIN</key>
       </entry>
       <entry>
          <key>ANDROID_UI_AUTOMATOR</key>
          <value>new UiSelector().className(&quot;android.widget.EditText&quot;).text(&quot;About you and your love of cooking&quot;).resourceId(&quot;com.mufumbo.android.recipe.search:id/bioEdit&quot;).packageName(&quot;com.mufumbo.android.recipe.search&quot;).enabled(true).clickable(true).longClickable(true).checkable(false).checked(false).focusable(true).focused(true).scrollable(false).selected(false).index(0)</value>
-      </entry>
-      <entry>
-         <key>IMAGE</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>CUSTOM</key>
-         <value></value>
       </entry>
    </locatorCollection>
    <locatorStrategy>ID</locatorStrategy>
